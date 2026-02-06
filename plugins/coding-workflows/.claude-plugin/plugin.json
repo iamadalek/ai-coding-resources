@@ -1,0 +1,12 @@
+{
+  "name": "coding-workflows",
+  "version": "1.0.0",
+  "description": "Engineering workflow skills for writing better issues and encoding best practices.",
+  "author": {
+    "name": "Kiwi Home"
+  },
+  "homepage": "https://github.com/Kiwi-Home/ai-coding-resources",
+  "repository": "https://github.com/Kiwi-Home/ai-coding-resources",
+  "license": "MIT",
+  "keywords": ["issue-writing", "engineering-workflows", "best-practices"]
+}
